@@ -1,0 +1,2 @@
+Download the real google-services.json from Firebase Console and place it as:
+app/google-services.json
